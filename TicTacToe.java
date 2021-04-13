@@ -113,7 +113,7 @@ public class TicTacToe {
             //return true;
         }
         if(flag==0) {
-            System.out.println(osp);
+            //System.out.println(osp);
             if(osp == 0) {
                 flag = 4;//Draw when no side has a three in a row and the grid has no empty cells.
                 System.out.println("Draw");
