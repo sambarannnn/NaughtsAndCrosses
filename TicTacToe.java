@@ -31,6 +31,8 @@ public class TicTacToe {
         //return GameBoard;
     }*/
     public static void display(){
+        System.out.print("\033[H\033[2J");   
+        System.out.flush();   
         for(int i = 0; i < row+2; i++) {
             if(i==0||i==4)
                 System.out.print("---------");
