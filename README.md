@@ -1,5 +1,5 @@
 
-# Tic-Tac-Toe
+# NaughtsAndCrosses
 2 Player Tic-Tac-Toe game using Java
 
 ![TicTacToe_UML](https://user-images.githubusercontent.com/63100608/114727760-1b916e80-9d5c-11eb-8608-4f887ea88694.png)
